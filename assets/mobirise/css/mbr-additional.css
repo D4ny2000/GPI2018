@@ -18763,6 +18763,27 @@ body {
     width: 100% !important;
   }
 }
+.cid-rbmK6Jo4yV {
+  background: #ffffff;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+.cid-rbmK6Jo4yV .image-block {
+  margin: auto;
+}
+.cid-rbmK6Jo4yV figcaption {
+  position: relative;
+}
+.cid-rbmK6Jo4yV figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-rbmK6Jo4yV .image-block {
+    width: 100% !important;
+  }
+}
 .cid-rbl6twG1IA {
   padding-top: 15px;
   padding-bottom: 15px;
