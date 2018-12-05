@@ -15671,6 +15671,27 @@ body {
     width: 100% !important;
   }
 }
+.cid-rblelhVvnC {
+  background: #ffffff;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+.cid-rblelhVvnC .image-block {
+  margin: auto;
+}
+.cid-rblelhVvnC figcaption {
+  position: relative;
+}
+.cid-rblelhVvnC figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-rblelhVvnC .image-block {
+    width: 100% !important;
+  }
+}
 .cid-qTkzRZLJNu .navbar {
   padding: .5rem 0;
   background: #333333;
