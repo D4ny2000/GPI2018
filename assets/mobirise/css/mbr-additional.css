@@ -4169,67 +4169,46 @@ body {
 .cid-r7hrGw3TLn .mbr-section-subtitle {
   font-style: italic;
 }
-.cid-rbkQP7TgDe {
+.cid-rbl4k2FwLq {
   padding-top: 30px;
   padding-bottom: 30px;
-  background-color: #ffffff;
+  background-color: #efefef;
 }
-.cid-rbkQP7TgDe .mbr-slider .carousel-control {
-  background: #1b1b1b;
+.cid-rbl4k2FwLq .card-box {
+  padding: 0 2rem;
 }
-.cid-rbkQP7TgDe .mbr-slider .carousel-control-prev {
-  left: 0;
-  margin-left: 2.5rem;
+.cid-rbl4k2FwLq .mbr-section-btn {
+  padding-top: 1rem;
 }
-.cid-rbkQP7TgDe .mbr-slider .carousel-control-next {
-  right: 0;
-  margin-right: 2.5rem;
+.cid-rbl4k2FwLq .mbr-section-btn a {
+  margin-top: 1rem;
+  margin-bottom: 0;
 }
-.cid-rbkQP7TgDe .mbr-slider .modal-body .close {
-  background: #1b1b1b;
+.cid-rbl4k2FwLq h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+  padding-top: 2rem;
 }
-.cid-rbkQP7TgDe .mbr-gallery-item > div::before {
-  content: '';
-  position: absolute;
-  left: 0;
-  top: 0;
-  width: 100%;
+.cid-rbl4k2FwLq p {
+  margin-bottom: 0;
+  text-align: left;
+  padding-top: 1.5rem;
+  padding-top: 2rem;
+}
+.cid-rbl4k2FwLq .mbr-text {
+  color: #767676;
+}
+.cid-rbl4k2FwLq .card-wrapper {
   height: 100%;
-  background: #554346;
-  opacity: 0;
-  -webkit-transition: 0.2s opacity ease-in-out;
-  transition: 0.2s opacity ease-in-out;
-  background: linear-gradient(to left, #554346, #45505b) !important;
+  padding-bottom: 2rem;
+  background: #ffffff;
+  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+  transition: box-shadow 0.3s;
 }
-.cid-rbkQP7TgDe .mbr-gallery-item > div:hover .mbr-gallery-title::before {
-  background: transparent !important;
-}
-.cid-rbkQP7TgDe .mbr-gallery-item > div:hover:before {
-  opacity: 0.7 !important;
-}
-.cid-rbkQP7TgDe .mbr-gallery-title {
-  font-size: .9em;
-  position: absolute;
-  display: block;
-  width: 100%;
-  bottom: 0;
-  padding: 1rem;
-  color: #fff;
-  z-index: 2;
-}
-.cid-rbkQP7TgDe .mbr-gallery-title:before {
-  content: " ";
-  width: 100%;
-  height: 100%;
-  top: 0;
-  left: 0;
-  z-index: -1;
-  position: absolute;
-  background: #554346 !important;
-  opacity: 0.7;
-  -webkit-transition: 0.2s background ease-in-out;
-  transition: 0.2s background ease-in-out;
-  background: linear-gradient(to left, #554346, #45505b) !important;
+.cid-rbl4k2FwLq .card-wrapper:hover {
+  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
+  transition: box-shadow 0.3s;
 }
 .cid-r7hwDqX06E {
   padding-top: 30px;
